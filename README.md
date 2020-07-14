@@ -13,4 +13,4 @@ Chosen seats aren't affected by refreshing.
 
 ### Images:
 
-<img src="./img/app.png">
+<img src="./movie-seat-booking/img/app.png">
